@@ -1,9 +1,36 @@
 #!/bin/bash
 # FILE: main.sh
-# FILE: Modular main V 1.9 (Clean UI Fix) CORE=6.0
+# FILE: Modular main V 1.9 (Auto-Run Integrated) CORE=6.1
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 MODULES_DIR="$SCRIPT_DIR/modules"
+
+# --- [0] INTERNAL FUNCTIONS (AUTO SETUP) ---
+# Fungsi ini ditambahkan agar user tidak perlu edit .bashrc manual
+setup_autorun() {
+    local BASHRC="$HOME/.bashrc"
+    local SCRIPT_PATH="$SCRIPT_DIR/main.sh"
+    local MARKER="# --- INTISARI AUTO RUN ---"
+    
+    # Buat .bashrc jika belum ada
+    if [ ! -f "$BASHRC" ]; then touch "$BASHRC"; fi
+
+    # Cek apakah konfigurasi sudah ada di .bashrc
+    if ! grep -Fq "$MARKER" "$BASHRC"; then
+        echo -e "\e[1;33m[*] Mengonfigurasi Autorun untuk pertama kali...\e[0m"
+        
+        # Backup .bashrc untuk keamanan
+        cp "$BASHRC" "$BASHRC.bak" 2>/dev/null
+        
+        # Tambahkan perintah ke .bashrc
+        echo "" >> "$BASHRC"
+        echo "$MARKER" >> "$BASHRC"
+        echo "if [ -f \"$SCRIPT_PATH\" ]; then bash \"$SCRIPT_PATH\"; fi" >> "$BASHRC"
+        
+        echo -e "\e[1;32m[V] Autorun berhasil dipasang! Script akan jalan otomatis saat Termux dibuka.\e[0m"
+        sleep 2
+    fi
+}
 
 # --- [1] LOAD MODULES ---
 if [ -d "$MODULES_DIR" ]; then
@@ -22,7 +49,7 @@ fi
 # --- [2] STARTUP SEQUENCE ---
 install_kebutuhan
 cek_update_otomatis
-setup_autorun
+setup_autorun  # <--- Fungsi otomatis dijalankan di sini
 
 clear
 if [ ! -d "$HOME/storage" ]; then 
@@ -44,7 +71,7 @@ else
     menu_aktivasi
 fi
 
-# --- KONFIGURASI WARNA (FIXED) ---
+# --- KONFIGURASI WARNA ---
 ORANGE='\033[38;5;208m'
 GOLD='\033[38;5;220m'
 CYAN='\033[38;5;44m'
@@ -55,7 +82,7 @@ GREEN='\033[1;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m'
 
-# --- [4] UI FUNCTIONS (CLEAN VERSION) ---
+# --- [4] UI FUNCTIONS ---
 
 header_pro() {
     clear
@@ -69,20 +96,15 @@ header_pro() {
 }
 
 status_bar() {
-    # LOGIC FIX: Pastikan data terambil
     if declare -f get_total_stats > /dev/null; then
         TOTAL_CUT_GLOBAL=$(get_total_stats)
     else
         TOTAL_CUT_GLOBAL="0"
     fi
 
-    # Fallback jika kosong
     if [[ -z "$TOTAL_CUT_GLOBAL" ]]; then TOTAL_CUT_GLOBAL="0"; fi
-    
-    # Fallback jika Member ID belum load
     if [[ -z "$MEMBER_ID" || "$MEMBER_ID" == "???" ]]; then MEMBER_ID="Guest_User"; fi
 
-    # TAMPILAN CLEAN (Tanpa Garis Kotak)
     echo -e " ${GRAY}SYSTEM  :${NC} ${GREEN}ONLINE${NC} ${GRAY}|${NC} ${WHITE}V$SYS_VER${NC}"
     echo -e " ${GRAY}USER ID :${NC} ${CYAN}#${MEMBER_ID}${NC}"
     echo -e " ${GRAY}STATS   :${NC} ${GOLD}${TOTAL_CUT_GLOBAL} Video(s) Created${NC}"
@@ -123,7 +145,6 @@ while true; do
             echo -e "${GRAY}  Tekan 'x' untuk kembali ke menu utama${NC}\n"
             
             vids=(); idx=1
-            # Menggunakan process substitution untuk membaca file dengan aman
             while IFS= read -r -d $'\0' file; do 
                 vids+=("$file")
                 echo -e " [$idx] ${WHITE}$(basename "$file")${NC}"
@@ -165,13 +186,11 @@ while true; do
       x|X) 
         echo -e "${RED}Terima kasih telah menggunakan Intisari Clipper.${NC}"
         sleep 2
-        
         cd "$HOME"
         clear
         echo -e "${GREEN}Anda sekarang berada di menu utama Termux.${NC}"
         exit 0
         ;;
       *) echo -e "${RED}Pilihan tidak valid!${NC}"; sleep 1 ;;
-      echo 'if [ -f "$HOME/Intisari-Auto-Cut/main.sh" ]; then bash "$HOME/Intisari-Auto-Cut/main.sh"; fi' >> ~/.bashrc
     esac
 done

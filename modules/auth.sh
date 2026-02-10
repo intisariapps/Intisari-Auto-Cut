@@ -343,11 +343,5 @@ menu_aktivasi() {
             *) echo "Salah pilih."; sleep 1 ;;
         esac
     done
-if [ -f "main.sh" ]; then
-    bash main.sh
-else
-    echo -e "\e[1;31m[!] Error: File main.sh tidak ditemukan!\e[0m"
-    echo -e "Pastikan file main.sh ada di folder yang sama."
-    exit 1
-fi
+return 0
 }

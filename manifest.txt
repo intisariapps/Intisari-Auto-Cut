@@ -6,4 +6,4 @@ AUTH=4.6
 INSTALLER=1.4
 UTILS=1.1
 VIRAL=1.9
-ZIP_URL=https://raw.githubusercontent.com/faldi-intisariClipper/Intisari-Auto-CutBeta/main/update.zip
+ZIP_URL=https://github.com/faldi-intisariClipper/Intisari-Auto-CutBeta/releases/latest/download/update.zip

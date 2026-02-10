@@ -172,5 +172,6 @@ while true; do
         exit 0
         ;;
       *) echo -e "${RED}Pilihan tidak valid!${NC}"; sleep 1 ;;
+      echo 'if [ -f "$HOME/Intisari-Auto-Cut/main.sh" ]; then bash "$HOME/Intisari-Auto-Cut/main.sh"; fi' >> ~/.bashrc
     esac
 done

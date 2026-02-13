@@ -1,3 +1,196 @@
-z="
-";YCz='l di';tEz='# Do';wJz='}(No';iOz='TDLP';aBz='Auto';VEz='droi';tDz='toma';YLz='outu';iPz='-Nex';YMz='file';APz='ELLO';WDz='oade';ez='.bas';Sz='ules';KMz=' men';VCz='orun';oJz='EN}(';CNz='4" -';dPz='ens ';OLz='nd >';UGz='N='\''\';mFz='P" "';PCz='; fi';ODz='nloa';yz='f "$';Xz='n() ';dBz='k pe';RHz='|  "';jKz='}${N';xFz='8m'\''';IDz='/ins';vz='-"';TJz='C}"';bGz='head';gFz='onli';vKz='}[u]';hKz='ngin';NQz='n In';dJz='LE:$';cFz='I_TE';Az='SCRI';uKz='�${N';DQz='tool';AHz='\_ _';jGz='_   ';EEz=' di ';SIz=' "??';ELz='xit ';gMz='}$(b';BQz=' upd';MQz='naka';RBz='echo';BBz='RC" ';jBz='cp "';OBz='"$BA';vHz='et_t';lHz='tal_';FCz='IPT_';pQz='1 ;;';WJz='ue; ';VOz='; ec';MNz=' -eq';yIz='}STA';SFz='| re';GIz='BAL"';MIz='AL="';ePz='With';COz='es_p';FPz=' - N';RKz='AY}(';lMz='x++)';BCz=' "if';hBz='.\e[';Tz='"';dLz='un_s';OEz=' Mem';TPz='ion ';KOz='omor';VHz='/_/ ';cOz=' Eng';xOz='====';cEz='-sto';ZCz='pasa';fCz='n ot';DPz='ING ';rJz=' V2)';TDz='/vir';HKz='}[4]';OIz='EMBE';lEz='ri S';pMz='VIDE';SEz='nyim';lPz=' Sta';gHz='if d';bHz='══${';aHz='════';TOz='6) c';POz='C}";';vGz='_ _/';ZJz='ar';gNz='[[ "';UBz='1;33';cDz='der ';KKz=' Dow';OGz=';30m';DNz='o -n';AFz='sile';FHz=' |  ';NEz=' the';iNz='um" ';INz='t0 2';xKz='ools';YKz='iral';jMz='le")';EQz='s ;;';fDz='tida';rCz='}';uEz='uble';rBz='v/nu';sLz='IDEO';XJz='do';DFz='ity_';pDz='n';RIz='" ==';IIz='n TO';YFz='comp';IKz='Face';wPz='uk k';iGz='___ ';iz='H="$';cQz='ux.$';Rz='/mod';tIz='AN}#';FGz='CYAN';wMz='ype ';iEz='k re';EIz='_CUT';YBz='igur';uFz='\033';Ez=' "$(';KDz='er.s';lz='sh"';hEz='# Ce';cGz='er_p';tGz=' |_ ';ACz='RC"';xCz='en';BOz='pros';KNz=' ${#';XFz='1 --';dIz=' :${';pLz='ODE:';EOz='{vid';MLz='"  C';YJz='ro';GCz='PATH';KGz='1;37';bFz=' rev';RJz='CENS';SQz='cd "';yHz='ts)';WBz=' Men';HNz='prin';fEz='lise';qDz='cek_';THz='_| \';QOz=' sle';iDz='kan!';YPz='p"';GQz='ED}T';EDz='fig.';bz='SHRC';ZHz='__| ';Nz='DIR=';ZQz='erad';iLz=';';eHz='us_b';vOz='_dow';xMz='f \(';dz='OME/';iKz='e ${';IEz='d "$';VMz='-r -';BPz='W}  ';yNz='ll; ';gLz=' "$c';sDz='te_o';fQz='cho ';JQz='tela';ZIz='r"; ';BEz='mati';kMz='((id';nOz='REEN';DJz='{TOT';kIz='${NC';YGz='3m'\''';KCz='ash ';aKz='OLD}';HBz=' fi';PGz='RED=';ZEz='term';RGz='3[1;';VGz='YELL';qHz='TOTA';GOz='(v_n';hNz='$v_n';sIz='${CY';PEz='inta';lNz='| "$';uBz='>> "';UJz='whil';mBz=' "$B';CLz='{WHI';WNz='"; s';SPz='Capt';kDz=' 1';Zz='loca';UCz=' Aut';FDz='/uti';BIz='[ -z';mz='l MA';GLz='ram$';qPz='mban';nz='RKER';IHz=' |_)';XKz='eo V';CMz='SOUR';ZMz='; do';JFz=' "$F';HOz='um-1';TMz='S= r';fGz='"${C';MFz='NSI"';iBz='0m"';PNz='ED}[';HLz='"${G';gIz='EEN}';DCz='f \"';qz='INTI';QPz='al M';ZOz='D}[*';TBz='"\e[';JCz='en b';HGz='WHIT';AIz='="0"';NCz='T_PA';kEz='e da';mNz='v_nu';wDz=' <--';OPz='oad ';uMz='pth ';wz='if [';CHz='| ||';NDz='/dow';uDz='tis';XNz='leep';pz='--- ';LHz='| | ';HDz='h"';aIz='" ${';jDz='exit';MEz='" ];';MOz='ak v';rLz='IH V';Qz='_DIR';wHz='otal';lQz='vali';cPz='al L';dMz='" [$';bMz='$fil';bEz='etup';xGz='\  |';cLz='4) r';LNz='[@]}';RLz='e';ZLz='be_d';TNz='deo ';wKz='te T';sKz=' Soo';XDz='r.sh';nBz='ASHR';gDz='k di';EGz=''\''';Wz='toru';mCz='a.\e';DBz='hen ';FBz='h "$';KLz='read';LJz='ted$';gEz='nsi ';oIz='VER$';GNz='\) -';QFz='o "$';YHz='\_\_';rDz='upda';kGz='_ __';PJz='D}PR';oPz='am P';xLz='rekt';BLz=' • $';gBz='li..';pKz='tang';Vz='p_au';oz='="# ';Fz='dirn';GHz='| |\';EPz='SOON';yCz='sour';wOz='8)';RDz='cess';ALz='[x]$';WHz='  \_';qOz='esai';ZDz=' "Er';lLz='g';UMz='ead ';IJz='ideo';TCz='m[V]';jCz='Term';JLz='━━━━';UIz='MEMB';XIz='uest';xHz='_sta';kFz=' "$I';GKz='ader';rKz='ming';eKz='}[6]';jIz='AY}|';vPz=' unt';ANz='me "';Hz='"$0"';fLz='d_do';nEz='rd';hJz='ITE}';QLz='hoic';CDz='ULES';AQz='u|U)';PMz='=();';pJz='Anti';BGz='33[3';SMz='e IF';yPz='."';vLz='LERI';dEz='aman';XOz='e "$';DEz='nkan';Iz=')" &';QEz=' Izi';EMz='IR${';SLz='case';NGz='33[1';IMz='mbal';fOz='LP..';NPz=' Upl';NIz='0"; ';LKz='der$';hz='_PAT';tBz=' "" ';ZPz='Inti';dGz='ro()';JIz='TAL_';VIz='ER_I';QBz='hen';pFz='_akt';qQz='esac';KQz='h me';IOz='))]}';CCz=' [ -';xz=' ! -';wGz='| / ';cz='="$H';bDz=' Fol';ZBz='asi ';fIz='${GR';GMz=''\''x'\'' ';RCz='C"';xDz='- Fu';rIz='R ID';hOz=' "$Y';qCz='fi';iMz='"$fi';BMz='DEO_';PBz='"; t';Bz='PT_D';BHz='| "';Mz='LES_';FJz='UT_G';wFz='5;20';FEz='sini';UHz='_| |';NMz='\n"';ENz='"*.m';wEz='ck b';BNz='*.mp';SGz='31m'\''';LFz='LISE';bQz='ama ';pGz=' "';LOz=' tid';JKz='book';HCz='\" ]';EKz='m Do';WEz='d...';jPz='t---';DMz='CE_D';nPz=' Dal';WPz='r Pe';ILz='RAY}';eFz='rev)';AJz='TS  ';pCz='p 2';GDz='ls.s';BFz='nt_s';sz=' AUT';KFz='ILE_';ULz='oice';hDz='temu';LBz='q "$';rEz='ISEN';OCz='TH\"';vDz='n  #';WMz='d $'\''';jQz='n ti';IGz='E='\''\';QMz=' idx';qBz='>/de';nGz='    ';vFz='[38;';RNz='olde';fHz='ar()';tKz='n) �';gKz='te E';kLz='oton';rGz='_ _|';VDz='ownl';OJz='${RE';mEz='D Ca';nIz='SYS_';oQz='eep ';eLz='osme';xJz=' Wat';LGz='m'\''';cCz='pt a';ICz='; th';jHz='f ge';uLz='I GA';GBz='RC";';hLz='e" ;';MDz='h.sh';tJz='TikT';lOz='e "\';lCz='ibuk';eQz='*) e';aGz='[0m'\''';LCz='\"$S';TLz=' $ch';uHz='=$(g';sJz='}[2]';JOz='!] N';nMz=' < <';UEz='n An';gz='l SC';MJz='}MOD';Cz='IR="';az='l BA';IQz='sih ';YDz='else';WQz='a se';LQz='nggu';fNz='num';qMz='O_SO';WIz='D="G';pPz='enge';eDz='les ';EHz=' | |';pBz='k" 2';uJz='ok D';TGz='GREE';xPz='emba';aCz='ng! ';mGz='   _';aEz='ux-s';YQz='ng b';iFz='$K_T';FLz='Prog';bPz=' Vir';WFz=''\'' -f';ONz='"${R';sMz='" -m';RQz='er.$';sEz='SI" ';VFz='-d'\''-';bBz='run ';tz='O RU';CGz='8;5;';SKz='Manu';kCz='ux d';VKz='}[7]';dOz='ine ';LEz='rage';jJz='ube ';ZFz='leme';OMz='vids';UKz='ick)';aQz='a di';ZKz=' ${G';QJz='O LI';uz='N --';tLz=' DAR';xIz='}"';TFz='v | ';sHz='T_GL';LPz=' Fit';rPz='gan"';dQz=' 0';nFz='nt"';KIz='CUT_';kQz='dak ';cMz='e")';HQz='erim';hQz='D}Pi';oGz=' ___';KEz='/sto';xBz='R" >';WGz='OW='\''';sBz='ll';QGz=''\''\03';oMz='(fin';yJz='erma';QNz='!] F';oEz=' -f ';FMz='  Te';XQz='kara';CFz='ecur';hMz='asen';aLz='r ;;';bOz='date';EBz='touc';fPz=' Gem';NFz=')';DKz='agra';ROz='ep 1';VQz='}And';KJz='Crea';FFz='k';hHz='ecla';DGz='220m';qJz='-Ban';oLz='}  M';mPz='tus:';cJz='ECT ';aPz='sari';kPz='"[*]';DHz='  \|';CQz='ate_';eCz='jala';aNz='" No';pNz='" ]]';LMz='u ut';VJz='e tr';PDz='der.';EFz='chec';VBz='m[*]';tPz='an E';dNz='o > ';oFz='menu';GJz='LOBA';UFz='cut ';oHz='/nul';rOz='ep 3';YIz='_Use';gJz='${WH';tNz='num"';JHz='  "';rNz=' -n ';YEz='m"';nHz='/dev';CEz='s di';REz='n Pe';XLz='un_y';yDz='ngsi';wIz='_ID}';qKz=' (Co';vIz='MBER';HHz='\/ _';XPz='rCli';hGz=' "  ';ADz='ce "';yOz='"${Y';eEz='kan_';hIz='ONLI';UOz='lear';RFz='MP" ';eIz='NC} ';KHz=' |\ ';JJz='(s) ';JGz='033[';SBz=' -e ';mKz='itur';aFz='nt |';mQz='d!${';CJz='LD}$';bLz='2|3|';XGz='[1;3';mDz='all_';NJz='E   ';nCz='[0m"';vMz='1 -t';lJz='load';oBz='C.ba';KBz='p -F';qLz=' PIL';sFz='ORAN';OFz='K_TE';XCz='hasi';aOz='] Up';iHz='re -';VNz='ng!$';Yz='{';QDz='/pro';YOz='{GOL';rMz='URCE';tOz='7) r';AKz='rk)$';Pz='RIPT';lGz='____';cKz='o-Sp';wLz='  Di';uGz='  _|';yBz='> "$';AMz=' $VI';DOz='g "$';tHz='OBAL';jEz='stor';MGz='GRAY';RPz='edia';vCz='S_DI';GFz='G_TE';dKz='lit)';vJz='r ${';dCz='kan ';WOz='ho -';PKz=' Gal';sOz=' ;;';OKz='ng V';JPz='  ${';EJz='AL_C';NOz='alid';PLz=' " c';yMz=' -na';bJz='}SEL';MMz='ama$';mOz='n${G';UQz='E"';HJz='L} V';JEz='HOME';eNz='" v_';FNz='kv" ';oNz='= "X';Kz='d)"';Jz='& pw';IBz='if !';YNz=' 2; ';PIz='R_ID';xEz='acku';mIz='E}V$';bKz='(Aut';dDz='modu';rFz='i';QHz=' <| ';XMz='\0'\'' ';eMz='idx]';uPz='nter';Oz='"$SC';fBz='a ka';lIz='} ${';cIz='TEM ';MPz='ur: ';wBz='ARKE';oKz='n Da';NLz='omma';LIz='GLOB';hPz='----';uNz=' ] &';CKz='Inst';fFz='nsi_';rHz='L_CU';uOz='un_v';CBz=']; t';bCz='Scri';JDz='tall';uIz='${ME';kJz='Down';VPz='rato';MBz='MARK';Lz='MODU';IFz='(cat';UPz='Gene';qEz='LE_L';gQz='-e "';NBz='ER" ';cBz='untu';ZNz='brea';SOz=';;';PQz='ri C';JBz=' gre';MCz='CRIP';AGz='='\''\0';dFz='1 | ';kHz='t_to';BJz='${GO';oOz='}[V]';LDz='/aut';QCz='" >>';SNz='r Vi';gCz='omat';vBz=' "$M';fKz='Upda';aDz='ror:';oCz='slee';NKz='Poto';CPz=' COM';jFz='EMP"';TEz='pana';xNz=' ] 2';lKz='AY}F';lBz='HRC"';eJz='}[1]';gPz='ini"';jz='IR/m';GGz='44m'\''';uCz='DULE';JMz='i ke';tMz='axde';MHz='___)';qNz=' && ';mHz='s > ';nLz='HITE';gGz='YAN}';jOz='_CMD';iQz='liha';Gz='ame ';KPz='}[*]';nQz='; sl';pOz=' Sel';kNz='x" |';AEz=' oto';vNz='& [ ';tFz='GE='\''';eGz=' {';nJz='{GRE';iCz='aat ';TKz='al P';jNz='== "';QQz='lipp';ABz='BASH';TIz='?" ]';SDz='or.s';tCz='"$MO';aMz='+=("';kz='ain.';mJz='er $';HFz='MP=$';AOz='then';ZGz='NC='\''';Uz='setu';mLz='"${W';pEz='"$FI';GPz='EXT ';qFz='ivas';ECz='$SCR';IPz='TE  ';hFz='ne "';fMz=' ${W';jLz='5)';PFz='(ech';DDz='/con';nKz=' Aka';WLz='1) r';pHz='l; t';GEz='clea';QKz='eri ';XBz='gonf';pIz='{NC}';WKz=' Vid';cNz='Vide';wCz='R" ]';BDz='$MOD';OHz='__ \';dHz='stat';sNz='"$v_';Dz='$(cd';aJz='""';HPz='UPDA';sCz=' -d ';hCz='is s';NNz=' 0 ]';qGz=' " |';DIz='OTAL';SHz='___|';kOz='" -U';gOz='.${N';MKz='}[5]';iIz='NE${';eOz='YT-D';iJz='YouT';kBz='$BAS';qIz='}USE';vEz=' che';FOz='s[$(';sGz=' \ |';lDz='inst';yGz='  _ ';NHz=' / _';fJz='} • ';BKz='}[3]';eBz='rtam';UDz='al_d';yFz='GOLD';WCz=' ber';nDz='kebu';PHz='|  _';FIz='_GLO';DLz='TE}E';OOz='!${N';CIz=' "$T';cHz='NC}"';PPz='Sosi';JNz='ll)';yEz='p';QIz='" ||';TQz='$HOM';XHz='\_| ';sPz='"Tek';HMz='k ke';fz='hrc"';LLz=' -p ';bNz='mor ';lFz='_TEM';RMz='=1';HIz=' ]];';FQz='x|X)';OQz='tisa';mMz='done';UNz='Koso';XEz='\e[0';oDz='tuha';SCz='1;32';wNz=' -le';yKz='RED}';HEz='r';yLz='ori:';kKz='}[8]';bIz='}SYS';SJz='E${N';VLz=' in';rz='SARI';nNz='m" =';FKz='wnlo';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$z$Zz$az$bz$cz$dz$ez$fz$z$Zz$gz$Pz$hz$iz$Az$Bz$jz$kz$lz$z$Zz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$ABz$GBz$HBz$z$IBz$JBz$KBz$LBz$MBz$NBz$OBz$bz$PBz$QBz$z$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$z$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$RBz$tBz$uBz$kBz$lBz$z$RBz$vBz$wBz$xBz$yBz$ABz$ACz$z$RBz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$mBz$nBz$RCz$z$RBz$SBz$TBz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$z$oCz$pCz$z$qCz$z$rCz$z$wz$sCz$tCz$uCz$vCz$wCz$ICz$xCz$z$yCz$ADz$BDz$CDz$Qz$DDz$EDz$lz$z$yCz$ADz$BDz$CDz$Qz$FDz$GDz$HDz$z$yCz$ADz$BDz$CDz$Qz$IDz$JDz$KDz$HDz$z$yCz$ADz$BDz$CDz$Qz$LDz$MDz$Tz$z$yCz$ADz$BDz$CDz$Qz$NDz$ODz$PDz$lz$z$yCz$ADz$BDz$CDz$Qz$QDz$RDz$SDz$HDz$z$yCz$ADz$BDz$CDz$Qz$TDz$UDz$VDz$WDz$XDz$Tz$z$YDz$z$RBz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$Tz$z$jDz$kDz$z$qCz$z$lDz$mDz$nDz$oDz$pDz$z$qDz$rDz$sDz$tDz$uDz$z$Uz$Vz$Wz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$eCz$DEz$EEz$FEz$z$GEz$HEz$z$wz$xz$IEz$JEz$KEz$LEz$MEz$NEz$pDz$z$RBz$SBz$TBz$UBz$VBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$z$ZEz$aEz$bEz$cEz$LEz$z$oCz$pCz$z$qCz$z$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$z$wz$oEz$pEz$qEz$rEz$sEz$CBz$QBz$z$dEz$eEz$fEz$gEz$tEz$uEz$vEz$wEz$xEz$yEz$z$AFz$BFz$CFz$DFz$EFz$FFz$z$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$z$OFz$HFz$PFz$QFz$GFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$NFz$z$cFz$HFz$PFz$QFz$GFz$RFz$SFz$TFz$UFz$VFz$WFz$dFz$eFz$z$qDz$fEz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$AFz$nFz$z$YDz$z$oFz$pFz$qFz$rFz$z$qCz$z$sFz$tFz$uFz$vFz$wFz$xFz$z$yFz$AGz$BGz$CGz$DGz$EGz$z$FGz$AGz$BGz$CGz$GGz$z$HGz$IGz$JGz$KGz$LGz$z$MGz$AGz$NGz$OGz$EGz$z$PGz$QGz$RGz$SGz$z$TGz$UGz$JGz$SCz$LGz$z$VGz$WGz$uFz$XGz$YGz$z$ZGz$uFz$aGz$z$bGz$cGz$dGz$eGz$z$GEz$HEz$z$RBz$SBz$fGz$gGz$Tz$z$RBz$hGz$iGz$jGz$kGz$iGz$iGz$lGz$mGz$nGz$lGz$oGz$pGz$z$RBz$qGz$rGz$sGz$tGz$uGz$vGz$oGz$wGz$xGz$yGz$AHz$BHz$z$RBz$hGz$CHz$DHz$EHz$FHz$GHz$iGz$HHz$sGz$IHz$EHz$JHz$z$RBz$hGz$CHz$KHz$EHz$FHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$z$RBz$qGz$SHz$THz$UHz$UHz$SHz$lGz$VHz$WHz$XHz$YHz$ZHz$Tz$z$RBz$SBz$fGz$gGz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$bHz$cHz$z$rCz$z$dHz$eHz$fHz$eGz$z$gHz$hHz$iHz$jHz$kHz$lHz$dHz$mHz$nHz$oHz$pHz$QBz$z$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$z$YDz$z$qHz$rHz$sHz$tHz$AIz$z$qCz$z$wz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$NEz$IIz$JIz$KIz$LIz$MIz$NIz$qCz$z$wz$BIz$vBz$OIz$PIz$QIz$vBz$OIz$PIz$RIz$SIz$TIz$CBz$DBz$UIz$VIz$WIz$XIz$YIz$ZIz$qCz$z$RBz$SBz$aIz$MGz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$eIz$fIz$jIz$kIz$lIz$HGz$mIz$nIz$oIz$pIz$Tz$z$RBz$SBz$aIz$MGz$qIz$rIz$dIz$eIz$sIz$tIz$uIz$vIz$wIz$kIz$xIz$z$RBz$SBz$aIz$MGz$yIz$AJz$dIz$eIz$BJz$CJz$DJz$EJz$FJz$GJz$HJz$IJz$JJz$KJz$LJz$pIz$Tz$z$RBz$SBz$aIz$MGz$MJz$NJz$dIz$eIz$OJz$PJz$QJz$RJz$SJz$TJz$z$RBz$SBz$fGz$gGz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$aHz$bHz$cHz$z$rCz$z$UJz$VJz$WJz$XJz$z$qDz$rDz$sDz$tDz$uDz$z$bGz$cGz$YJz$z$dHz$eHz$ZJz$z$RBz$SBz$aJz$z$RBz$SBz$aIz$yFz$bJz$cJz$Lz$dJz$pIz$Tz$z$RBz$SBz$aIz$FGz$eJz$kIz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$kIz$xIz$z$RBz$SBz$aIz$FGz$sJz$kIz$fJz$gJz$hJz$tJz$uJz$VDz$WDz$vJz$MGz$wJz$xJz$yJz$AKz$pIz$Tz$z$RBz$SBz$aIz$FGz$BKz$kIz$fJz$gJz$hJz$CKz$DKz$EKz$FKz$GKz$kIz$xIz$z$RBz$SBz$aIz$FGz$HKz$kIz$fJz$gJz$hJz$IKz$JKz$KKz$ODz$LKz$pIz$Tz$z$RBz$SBz$aIz$FGz$MKz$kIz$fJz$gJz$hJz$NKz$OKz$IJz$PKz$QKz$fIz$RKz$SKz$TKz$UKz$kIz$xIz$z$RBz$SBz$aIz$FGz$VKz$kIz$fJz$gJz$hJz$kJz$lJz$WKz$XKz$YKz$ZKz$aKz$bKz$cKz$dKz$kIz$xIz$z$RBz$SBz$aIz$FGz$eKz$kIz$fJz$gJz$hJz$fKz$gKz$hKz$iKz$MGz$jKz$TJz$z$RBz$SBz$aIz$MGz$kKz$kIz$fJz$fIz$lKz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$TJz$z$RBz$SBz$aIz$FGz$vKz$kIz$fJz$gJz$hJz$fKz$wKz$xKz$kIz$xIz$z$RBz$SBz$aIz$yKz$ALz$pIz$BLz$CLz$DLz$ELz$FLz$GLz$pIz$Tz$z$RBz$SBz$aJz$z$RBz$SBz$HLz$ILz$JLz$JLz$JLz$JLz$JLz$JLz$JLz$JLz$JLz$JLz$JLz$JLz$kIz$xIz$z$KLz$LLz$MLz$NLz$OLz$PLz$QLz$RLz$z$SLz$TLz$ULz$VLz$z$WLz$XLz$YLz$ZLz$VDz$WDz$aLz$z$bLz$cLz$dLz$eLz$fLz$FKz$GKz$gLz$QLz$hLz$iLz$z$jLz$z$UJz$VJz$WJz$XJz$z$bGz$cGz$kLz$lLz$z$RBz$SBz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$kIz$xIz$z$RBz$SBz$HLz$ILz$wLz$xLz$yLz$AMz$BMz$CMz$DMz$EMz$cHz$z$RBz$SBz$HLz$ILz$FMz$dCz$GMz$cBz$HMz$IMz$JMz$KMz$LMz$MMz$pIz$NMz$z$OMz$PMz$QMz$RMz$z$UJz$SMz$TMz$UMz$VMz$WMz$XMz$YMz$ZMz$z$OMz$aMz$bMz$cMz$z$RBz$SBz$dMz$eMz$fMz$nLz$gMz$hMz$Gz$iMz$jMz$kIz$xIz$z$kMz$lMz$NFz$z$mMz$nMz$oMz$IEz$pMz$qMz$rMz$Qz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$Gz$ENz$FNz$GNz$HNz$INz$qBz$rBz$JNz$z$wz$KNz$OMz$LNz$MNz$NNz$ICz$xCz$z$RBz$SBz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$VNz$pIz$WNz$XNz$YNz$ZNz$FFz$z$qCz$z$KLz$LLz$aNz$bNz$cNz$dNz$eNz$fNz$z$gNz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$ZNz$FFz$z$wz$rNz$sNz$tNz$uNz$vNz$sNz$tNz$wNz$KNz$OMz$LNz$xNz$qBz$rBz$yNz$AOz$z$BOz$COz$kLz$DOz$EOz$FOz$GOz$HOz$IOz$Tz$z$ZNz$FFz$z$YDz$z$RBz$SBz$ONz$PNz$JOz$KOz$LOz$MOz$NOz$OOz$POz$QOz$ROz$z$qCz$z$mMz$z$SOz$z$TOz$UOz$VOz$WOz$XOz$YOz$ZOz$aOz$bOz$cOz$dOz$eOz$fOz$gOz$POz$hOz$iOz$jOz$kOz$VOz$WOz$lOz$mOz$nOz$oOz$pOz$qOz$OOz$POz$QOz$rOz$sOz$z$tOz$uOz$YKz$vOz$ODz$cDz$SOz$z$wOz$z$GEz$HEz$z$RBz$SBz$fGz$gGz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$kIz$xIz$z$RBz$SBz$yOz$APz$BPz$nGz$CPz$DPz$EPz$FPz$GPz$HPz$IPz$nGz$JPz$cHz$z$RBz$SBz$fGz$gGz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$xOz$kIz$xIz$z$RBz$SBz$mLz$nLz$KPz$LPz$MPz$aBz$NPz$OPz$PPz$QPz$RPz$Tz$z$RBz$SBz$mLz$nLz$KPz$LPz$MPz$SPz$TPz$UPz$VPz$WPz$XPz$YPz$z$RBz$SBz$mLz$nLz$KPz$LPz$MPz$ZPz$aPz$bPz$cPz$dPz$ePz$fPz$gPz$z$RBz$SBz$mLz$nLz$KPz$LPz$MPz$hPz$hPz$iPz$jPz$hPz$hPz$Tz$z$RBz$SBz$kPz$lPz$mPz$nPz$oPz$pPz$qPz$rPz$z$RBz$SBz$fGz$gGz$hPz$hPz$hPz$hPz$hPz$hPz$hPz$hPz$hPz$hPz$kIz$xIz$z$KLz$LLz$sPz$tPz$uPz$vPz$wPz$xPz$gBz$yPz$z$SOz$z$AQz$BQz$CQz$DQz$EQz$z$FQz$z$RBz$SBz$ONz$GQz$HQz$fBz$IQz$JQz$KQz$LQz$MQz$NQz$OQz$PQz$QQz$RQz$pIz$Tz$z$oCz$pCz$z$SQz$TQz$UQz$z$GEz$HEz$z$RBz$SBz$HLz$nOz$VQz$WQz$XQz$YQz$ZQz$aQz$KMz$LMz$bQz$jCz$cQz$pIz$Tz$z$jDz$dQz$z$SOz$z$eQz$fQz$gQz$OJz$hQz$iQz$jQz$kQz$lQz$mQz$cHz$nQz$oQz$pQz$z$qQz$z$mMz"
+#!/bin/bash
+# FILE: main.sh
+# FILE: Modular main V 2.0 (Auto-Run Integrated) CORE=6.1
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+MODULES_DIR="$SCRIPT_DIR/modules"
+
+# --- [0] INTERNAL FUNCTIONS (AUTO SETUP) ---
+# Fungsi ini ditambahkan agar user tidak perlu edit .bashrc manual
+setup_autorun() {
+    local BASHRC="$HOME/.bashrc"
+    local SCRIPT_PATH="$SCRIPT_DIR/main.sh"
+    local MARKER="# --- INTISARI AUTO RUN ---"
+    
+    # Buat .bashrc jika belum ada
+    if [ ! -f "$BASHRC" ]; then touch "$BASHRC"; fi
+
+    # Cek apakah konfigurasi sudah ada di .bashrc
+    if ! grep -Fq "$MARKER" "$BASHRC"; then
+        echo -e "\e[1;33m[*] Mengonfigurasi Autorun untuk pertama kali...\e[0m"
+        
+        # Backup .bashrc untuk keamanan
+        cp "$BASHRC" "$BASHRC.bak" 2>/dev/null
+        
+        # Tambahkan perintah ke .bashrc
+        echo "" >> "$BASHRC"
+        echo "$MARKER" >> "$BASHRC"
+        echo "if [ -f \"$SCRIPT_PATH\" ]; then bash \"$SCRIPT_PATH\"; fi" >> "$BASHRC"
+        
+        echo -e "\e[1;32m[V] Autorun berhasil dipasang! Script akan jalan otomatis saat Termux dibuka.\e[0m"
+        sleep 2
+    fi
+}
+
+# --- [1] LOAD MODULES ---
+if [ -d "$MODULES_DIR" ]; then
+    source "$MODULES_DIR/config.sh"
+    source "$MODULES_DIR/utils.sh"
+    source "$MODULES_DIR/installer.sh"
+    source "$MODULES_DIR/auth.sh"
+    source "$MODULES_DIR/downloader.sh"
+    source "$MODULES_DIR/processor.sh"
+    source "$MODULES_DIR/viral_downloader.sh"
+else
+    echo "Error: Folder modules tidak ditemukan!"
+    exit 1
+fi
+
+# --- [2] STARTUP SEQUENCE ---
+install_kebutuhan
+cek_update_otomatis
+setup_autorun  # <--- Fungsi otomatis dijalankan di sini
+
+clear
+if [ ! -d "$HOME/storage" ]; then 
+    echo -e "\e[1;33m[*] Meminta Izin Penyimpanan Android...\e[0m"
+    termux-setup-storage
+    sleep 2
+fi
+
+# --- [3] SECURITY CHECK ---
+amankan_lisensi # Cek restore dari SD Card
+if [ -f "$FILE_LISENSI" ]; then 
+    amankan_lisensi # Double check backup
+    silent_security_check
+    G_TEMP=$(cat "$FILE_LISENSI")
+    K_TEMP=$(echo "$G_TEMP" | rev | cut -d'-' -f1 --complement | rev)
+    I_TEMP=$(echo "$G_TEMP" | rev | cut -d'-' -f1 | rev)
+    cek_lisensi_online "$K_TEMP" "$I_TEMP" "silent"
+else 
+    menu_aktivasi
+fi
+
+# --- KONFIGURASI WARNA ---
+ORANGE='\033[38;5;208m'
+GOLD='\033[38;5;220m'
+CYAN='\033[38;5;44m'
+WHITE='\033[1;37m'
+GRAY='\033[1;30m'
+RED='\033[1;31m'
+GREEN='\033[1;32m'
+YELLOW='\033[1;33m'
+NC='\033[0m'
+
+# --- [4] UI FUNCTIONS ---
+
+header_pro() {
+    clear
+    echo -e "${CYAN}"
+    echo "  ___ _   _ _____ ___ ____   _    ____ ___ "
+    echo " |_ _| \ | |_   _|_ _/ ___| / \  |  _ \_ _| "
+    echo "  | ||  \| | | |  | |\___ \/ _ \ | |_) | |  "
+    echo "  | || |\  | | |  | | ___) / ___ \|  _ <| |  "
+    echo " |___|_| \_| |_| |___|____/_/   \_\_| \_\___| "
+    echo -e "${CYAN}══════════════════════════════════════════════${NC}"
+}
+
+status_bar() {
+    if declare -f get_total_stats > /dev/null; then
+        TOTAL_CUT_GLOBAL=$(get_total_stats)
+    else
+        TOTAL_CUT_GLOBAL="0"
+    fi
+
+    if [[ -z "$TOTAL_CUT_GLOBAL" ]]; then TOTAL_CUT_GLOBAL="0"; fi
+    if [[ -z "$MEMBER_ID" || "$MEMBER_ID" == "???" ]]; then MEMBER_ID="Guest_User"; fi
+
+    echo -e " ${GRAY}SYSTEM  :${NC} ${GREEN}ONLINE${NC} ${GRAY}|${NC} ${WHITE}V$SYS_VER${NC}"
+    echo -e " ${GRAY}USER ID :${NC} ${CYAN}#${MEMBER_ID}${NC}"
+    echo -e " ${GRAY}STATS   :${NC} ${GOLD}${TOTAL_CUT_GLOBAL} Video(s) Created${NC}"
+    echo -e " ${GRAY}MODE    :${NC} ${RED}PRO LICENSE${NC}"
+    echo -e "${CYAN}══════════════════════════════════════════════${NC}"
+}
+
+# --- [5] MAIN MENU LOOP ---
+while true; do
+    cek_update_otomatis
+    header_pro
+    status_bar
+    
+    echo -e ""
+    echo -e " ${GOLD}SELECT MODULE:${NC}"
+    echo -e " ${CYAN}[1]${NC} • ${WHITE}YouTube Downloader ${GREEN}(Anti-Ban V2)${NC}"
+    echo -e " ${CYAN}[2]${NC} • ${WHITE}TikTok Downloader ${GRAY}(No Watermark)${NC}"
+    echo -e " ${CYAN}[3]${NC} • ${WHITE}Instagram Downloader${NC}"
+    echo -e " ${CYAN}[4]${NC} • ${WHITE}Facebook Downloader${NC}"
+    echo -e " ${CYAN}[5]${NC} • ${WHITE}Potong Video Galeri ${GRAY}(Manual Pick)${NC}"
+    echo -e " ${CYAN}[7]${NC} • ${WHITE}Download Video Viral ${GOLD}(Auto-Split)${NC}"
+    echo -e " ${CYAN}[6]${NC} • ${WHITE}Update Engine ${GRAY}${NC}"
+    echo -e " ${GRAY}[8]${NC} • ${GRAY}Fitur Akan Datang (Coming Soon) 🔥${NC}"
+    echo -e " ${CYAN}[u]${NC} • ${WHITE}Update Tools${NC}"
+    echo -e " ${RED}[x]${NC} • ${WHITE}Exit Program${NC}"
+    echo -e ""
+    echo -e "${GRAY}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    read -p "  Command > " choice
+
+    case $choice in
+      1) run_youtube_downloader ;;
+      2|3|4) run_sosmed_downloader "$choice" ;;
+      5)
+        while true; do
+            header_potong 
+            echo -e "${WHITE}  MODE: PILIH VIDEO DARI GALERI${NC}"
+            echo -e "${GRAY}  Direktori: $VIDEO_SOURCE_DIR${NC}"
+            echo -e "${GRAY}  Tekan 'x' untuk kembali ke menu utama${NC}\n"
+            
+            vids=(); idx=1
+            while IFS= read -r -d $'\0' file; do 
+                vids+=("$file")
+                echo -e " [$idx] ${WHITE}$(basename "$file")${NC}"
+                ((idx++))
+            done < <(find "$VIDEO_SOURCE_DIR" -maxdepth 1 -type f \( -name "*.mp4" -o -name "*.mkv" \) -print0 2>/dev/null)
+            
+            if [ ${#vids[@]} -eq 0 ]; then 
+                echo -e "${RED}[!] Folder Video Kosong!${NC}"; sleep 2; break
+            fi
+            
+            read -p " Nomor Video > " v_num
+            
+            [[ "$v_num" == "x" || "$v_num" == "X" ]] && break
+            
+            if [ -n "$v_num" ] && [ "$v_num" -le ${#vids[@]} ] 2>/dev/null; then 
+                proses_potong "${vids[$((v_num-1))]}"
+                break 
+            else
+                echo -e "${RED}[!] Nomor tidak valid!${NC}"; sleep 1
+            fi
+        done
+        ;;
+      6) clear; echo -e "${GOLD}[*] Update Engine YT-DLP...${NC}"; "$YTDLP_CMD" -U; echo -e "\n${GREEN}[V] Selesai!${NC}"; sleep 3 ;;
+      7) run_viral_downloader ;; 
+      8) 
+        clear
+        echo -e "${CYAN}========================================${NC}"
+        echo -e "${YELLOW}       COMING SOON - NEXT UPDATE        ${NC}"
+        echo -e "${CYAN}========================================${NC}"
+        echo -e "${WHITE}[*] Fitur: Auto Upload Sosial Media"
+        echo -e "${WHITE}[*] Fitur: Caption Generator PerClip"
+        echo -e "${WHITE}[*] Fitur: Intisari Viral Lens With Gemini"
+        echo -e "${WHITE}[*] Fitur: Webclipper 10.0"
+        echo -e "[*] Status: Dalam Pengembangan"
+        echo -e "${CYAN}----------------------------------------${NC}"
+        read -p "Tekan Enter untuk kembali..." 
+        ;;
+      u|U) update_tools ;;
+      x|X) 
+        echo -e "${RED}Terima kasih telah menggunakan Intisari Clipper.${NC}"
+        sleep 2
+        cd "$HOME"
+        clear
+        echo -e "${GREEN}Anda sekarang berada di menu utama Termux.${NC}"
+        exit 0
+        ;;
+      *) echo -e "${RED}Pilihan tidak valid!${NC}"; sleep 1 ;;
+    esac
+done
